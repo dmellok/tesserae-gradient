@@ -1,0 +1,21 @@
+[data-theme="mauve"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #B49AB0;
+  --surface:        #B888B0;
+  --surface-gradient: linear-gradient(135deg, #D8A8B5 0%, #B888B0 55%, #9870AE 100%);
+  --surface-sunken: #9568A0;
+  --text-primary:   #2A1738;
+  --text-secondary: #432955;
+  --text-muted:     #6A4F7C;
+  --icon:           var(--text-primary);
+  --edge:           #7A608A;
+
+  --accent-1:#8E2050; --accent-1-soft:#D5BDC8;  /* vivid wine        */
+  --accent-2:#8D5510; --accent-2-soft:#D7C9AB;  /* amber             */
+  --accent-3:#2D5F2D; --accent-3-soft:#BBCCBB;  /* moss              */
+  --accent-4:#1D4F70; --accent-4-soft:#B5C5D2;  /* teal-blue         */
+  --accent-5:#4E3878; --accent-5-soft:#C8BFD2;  /* deep purple       */
+  --accent-6:#6D2855; --accent-6-soft:#D2BAC6;  /* plum              */
+  --on-accent:#F2E2EE;
+}

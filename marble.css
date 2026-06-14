@@ -1,0 +1,21 @@
+[data-theme="marble"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #CFCCC3;
+  --surface:        #EAE2D0;
+  --surface-gradient: linear-gradient(135deg, #F5EFE2 0%, #EAE2D0 55%, #D6CDB8 100%);
+  --surface-sunken: #C0B8A8;
+  --text-primary:   #2A2625;
+  --text-secondary: #4D4843;
+  --text-muted:     #807870;
+  --icon:           var(--text-primary);
+  --edge:           #A89E8C;
+
+  --accent-1:#A52818; --accent-1-soft:#E3C5BC;  /* terracotta        */
+  --accent-2:#8C6018; --accent-2-soft:#DBCAA8;  /* ochre             */
+  --accent-3:#3E632A; --accent-3-soft:#C9D2B8;  /* moss              */
+  --accent-4:#1F5E5C; --accent-4-soft:#B7CDCB;  /* teal              */
+  --accent-5:#34406A; --accent-5-soft:#BFC4D2;  /* slate             */
+  --accent-6:#6E3050; --accent-6-soft:#D3BBC5;  /* plum              */
+  --on-accent:#FBF5E8;
+}

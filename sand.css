@@ -1,0 +1,21 @@
+[data-theme="sand"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #C4B690;
+  --surface:        #D4BC85;
+  --surface-gradient: linear-gradient(135deg, #F0DEB0 0%, #D4BC85 55%, #B89968 100%);
+  --surface-sunken: #AC9560;
+  --text-primary:   #38280C;
+  --text-secondary: #5A4220;
+  --text-muted:     #7F643F;
+  --icon:           var(--text-primary);
+  --edge:           #927544;
+
+  --accent-1:#A82C18; --accent-1-soft:#E4C5BA;  /* rich terracotta   */
+  --accent-2:#8D5A0F; --accent-2-soft:#DFCAA8;  /* mustard           */
+  --accent-3:#4D6A22; --accent-3-soft:#CFD5B5;  /* olive             */
+  --accent-4:#20675A; --accent-4-soft:#BCD2CD;  /* peacock           */
+  --accent-5:#3F4A78; --accent-5-soft:#C5C8D8;  /* navy              */
+  --accent-6:#6D3A48; --accent-6-soft:#D5BFC5;  /* wine              */
+  --on-accent:#F8ECCC;
+}

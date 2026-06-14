@@ -1,0 +1,21 @@
+[data-theme="mist"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #B3BBD0;
+  --surface:        #BFB8DD;
+  --surface-gradient: linear-gradient(135deg, #C5D2E5 0%, #BFB8DD 55%, #B89BCC 100%);
+  --surface-sunken: #9AA2CC;
+  --text-primary:   #1F2240;
+  --text-secondary: #3A406A;
+  --text-muted:     #5F6586;
+  --icon:           var(--text-primary);
+  --edge:           #828AA8;
+
+  --accent-1:#8D2030; --accent-1-soft:#D2BCC0;  /* cool red          */
+  --accent-2:#B07020; --accent-2-soft:#E0CEAE;  /* warm amber pop    */
+  --accent-3:#3D6D55; --accent-3-soft:#C4D1C9;  /* sea green         */
+  --accent-4:#3858A0; --accent-4-soft:#C2C9DC;  /* royal blue        */
+  --accent-5:#5A3D8A; --accent-5-soft:#CFC2D5;  /* purple            */
+  --accent-6:#743873; --accent-6-soft:#D2BCC5;  /* violet            */
+  --on-accent:#F2EEF8;
+}

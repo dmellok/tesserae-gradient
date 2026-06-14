@@ -1,0 +1,21 @@
+[data-theme="pearl"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #D2BBB8;
+  --surface:        #F0E0D5;
+  --surface-gradient: linear-gradient(135deg, #F8C0C5 0%, #F0E0D5 55%, #ECE4D8 100%);
+  --surface-sunken: #D5BCB0;
+  --text-primary:   #38222A;
+  --text-secondary: #5A3A40;
+  --text-muted:     #806068;
+  --icon:           var(--text-primary);
+  --edge:           #AE8A88;
+
+  --accent-1:#A22850; --accent-1-soft:#E3BCC8;  /* vivid wine-pink   */
+  --accent-2:#8D5510; --accent-2-soft:#D6C8A6;  /* ochre             */
+  --accent-3:#355F2A; --accent-3-soft:#C2D0B6;  /* moss              */
+  --accent-4:#1F5560; --accent-4-soft:#B5C7CC;  /* deep teal         */
+  --accent-5:#2F3D70; --accent-5-soft:#BFC2D2;  /* navy              */
+  --accent-6:#5E2858; --accent-6-soft:#CFB5CC;  /* plum              */
+  --on-accent:#FAEAE8;
+}

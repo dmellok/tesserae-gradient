@@ -1,0 +1,21 @@
+[data-theme="spectrum"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #0E0E12;
+  --surface:        #FB5607;                   /* gradient mid-stop */
+  --surface-gradient: linear-gradient(120deg, #FF006E 0%, #FB5607 35%, #FFBE0B 70%, #8338EC 100%);
+  --surface-sunken: #2A2225;
+  --text-primary:   #FFFFFF;
+  --text-secondary: #F0F0F5;
+  --text-muted:     #BABACA;
+  --icon:           var(--text-primary);
+  --edge:           #FFFFFF;
+
+  --accent-1:#FFFFFF; --accent-1-soft:#1A1A20;  /* pure-white alert */
+  --accent-2:#FFFA94; --accent-2-soft:#3D3815;  /* lemon capacity   */
+  --accent-3:#5CFFD2; --accent-3-soft:#143D2F;  /* mint positive    */
+  --accent-4:#52E5FF; --accent-4-soft:#143844;  /* electric blue    */
+  --accent-5:#D599FF; --accent-5-soft:#322244;  /* violet secondary */
+  --accent-6:#FFA1C2; --accent-6-soft:#3F1D2C;  /* pink third       */
+  --on-accent:#0E0E12;
+}

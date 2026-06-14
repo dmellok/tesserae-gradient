@@ -1,0 +1,21 @@
+[data-theme="linen"]{
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #CDB57E;
+  --surface:        #DEC275;
+  --surface-gradient: linear-gradient(135deg, #F0DCA0 0%, #DEC275 55%, #C5A050 100%);
+  --surface-sunken: #B89A55;
+  --text-primary:   #38280B;
+  --text-secondary: #5A421A;
+  --text-muted:     #7E6438;
+  --icon:           var(--text-primary);
+  --edge:           #957638;
+
+  --accent-1:#A52818; --accent-1-soft:#E3C5BC;  /* vivid brick       */
+  --accent-2:#845010; --accent-2-soft:#DAC7A4;  /* burnt gold        */
+  --accent-3:#3E6822; --accent-3-soft:#C9D2B6;  /* olive-green       */
+  --accent-4:#1D6048; --accent-4-soft:#B7CCC3;  /* peacock           */
+  --accent-5:#2F4070; --accent-5-soft:#BCC2D2;  /* navy              */
+  --accent-6:#682E40; --accent-6-soft:#D3BCC4;  /* wine              */
+  --on-accent:#FCEFB8;
+}
