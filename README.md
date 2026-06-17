@@ -33,4 +33,4 @@ If you have a dashboard pinned to one of these themes and upgrade to 0.47.9 with
 
 ## License
 
-MIT. See [LICENSE](./LICENSE).
+AGPL-3.0-or-later. See [LICENSE](./LICENSE).
